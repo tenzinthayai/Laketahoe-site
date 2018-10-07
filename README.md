@@ -1,2 +1,2 @@
-# tenzinthayai.github.io
+# laketahoe
 Responsive webpage of Lake Tahoe, California preserve.
